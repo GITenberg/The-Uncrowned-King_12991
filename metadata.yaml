@@ -1,5 +1,5 @@
 _repo: The-Uncrowned-King_12991
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Neill, John R. (John Rea)
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26521'
     url: http://www.gutenberg.org/2009/agents/26521
     wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wright, Harold Bell
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1146
     wikipedia: http://en.wikipedia.org/wiki/Harold_Bell_Wright
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12991#The-Uncrowned-King
 gutenberg_issued: '2004-07-22'
 gutenberg_type: Text
 identifiers:
